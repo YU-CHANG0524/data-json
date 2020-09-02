@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "c01",
+    "Name": "Beer",
+    "score": {
+      "am": "89-91",
+      "ws": "94",
+      "wa": "90"
+    },
+    "price": "200",
+    "original_price": "300",
+    "stock": "99",
+    "image": "https://i.imgur.com/Y2FA48g.jpg",
+    "details": {
+      "vintage": "2018",
+      "country": "Taiwan",
+      "region": "Burgundy",
+      "size": "0.6L"
+    }
+  },
+  {
+    "Id": "c02",
+    "Name": "Junmai Daiginjo",
+    "score": {
+      "am": "10-91",
+      "ws": "88",
+      "wa": "77"
+    },
+    "price": "500",
+    "original_price": "500",
+    "stock": "0",
+    "image": "https://i.imgur.com/ibiRL9f.png",
+    "details": {
+      "vintage": "1995",
+      "country": "Japan",
+      "region": "Burgundy",
+      "size": "0.5L"
+    }
+  },
+  {
+    "Id": "c03",
+    "Name": "Tokubetsu Junmai",
+    "score": {
+      "am": "50-80",
+      "ws": "88",
+      "wa": "66"
+    },
+    "price": "300",
+    "original_price": "550",
+    "stock": "0",
+    "image": "https://i.imgur.com/mD9NiNp.jpg",
+    "details": {
+      "vintage": "1895",
+      "country": "chile",
+      "region": "Burgundy",
+      "size": "0.5L"
+    }
+  },
+  {
+    "Id": "c04",
+    "Name": "Jiang-flavored Chinese spirits",
+    "score": {
+      "am": "90-99",
+      "ws": "88",
+      "wa": "66"
+    },
+    "price": "800",
+    "original_price": "1000",
+    "stock": "60",
+    "image": "https://i.imgur.com/f9zcrE2.png",
+    "details": {
+      "vintage": "1895",
+      "country": "Iceland",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  },
+  {
+    "Id": "c05",
+    "Name": "Vodka",
+    "score": {
+      "am": "90-92",
+      "ws": "87",
+      "wa": "99"
+    },
+    "price": "100",
+    "original_price": "100",
+    "stock": "60",
+    "image": "https://i.imgur.com/SlGrCeC.jpg",
+    "details": {
+      "vintage": "1815",
+      "country": "Iceland",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  },
+  {
+    "Id": "c06",
+    "Name": "Sparkling wine",
+    "score": {
+      "am": "91-99",
+      "ws": "80",
+      "wa": "90"
+    },
+    "price": "350",
+    "original_price": "350",
+    "stock": "60",
+    "image": "https://i.imgur.com/dPngPu5.png",
+    "details": {
+      "vintage": "2008",
+      "country": "Mali",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  },
+  {
+    "Id": "c07",
+    "Name": "Liquor",
+    "score": {
+      "am": "71-89",
+      "ws": "88",
+      "wa": "88"
+    },
+    "price": "450",
+    "original_price": "450",
+    "stock": "60",
+    "image": "https://i.imgur.com/zmJNUNd.jpg",
+    "details": {
+      "vintage": "2008",
+      "country": "Angola",
+      "region": "Burgundy",
+      "size": "1L"
+    }
+  },
+  {
+    "Id": "c08",
+    "Name": "Gin",
+    "score": {
+      "am": "70-80",
+      "ws": "88",
+      "wa": "90"
+    },
+    "price": "650",
+    "original_price": "650",
+    "stock": "0",
+    "image": "https://i.imgur.com/DtQRXgO.jpg",
+    "details": {
+      "vintage": "2020",
+      "country": "Cuba",
+      "region": "Burgundy",
+      "size": "2L"
+    }
+  },
+  {
+    "Id": "c09",
+    "Name": "Chinese rice wines",
+    "score": {
+      "am": "77-80",
+      "ws": "90",
+      "wa": "99"
+    },
+    "price": "650",
+    "original_price": "650",
+    "stock": "10",
+    "image": "https://i.imgur.com/9ZzPmrP.jpg",
+    "details": {
+      "vintage": "2000",
+      "country": "Canada",
+      "region": "Burgundy",
+      "size": "0.8L"
+    }
+  },
+  {
+    "Id": "c10",
+    "Name": "Tokubetsu Honjozo",
+    "score": {
+      "am": "88-90",
+      "ws": "90",
+      "wa": "99"
+    },
+    "price": "550",
+    "original_price": "900",
+    "stock": "30",
+    "image": "https://i.imgur.com/dp0pk5N.jpg",
+    "details": {
+      "vintage": "1900",
+      "country": "America",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  },
+  {
+    "Id": "c11",
+    "Name": "Junmai",
+    "score": {
+      "am": "50-60",
+      "ws": "90",
+      "wa": "99"
+    },
+    "price": "550",
+    "original_price": "550",
+    "stock": "40",
+    "image": "https://i.imgur.com/dp0pk5N.jpg",
+    "details": {
+      "vintage": "1900",
+      "country": "America",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  },
+  {
+    "Id": "c12",
+    "Name": "Champagne",
+    "score": {
+      "am": "80-81",
+      "ws": "90",
+      "wa": "99"
+    },
+    "price": "700",
+    "original_price": "700",
+    "stock": "40",
+    "image": "https://i.imgur.com/f9zcrE2.png",
+    "details": {
+      "vintage": "1900",
+      "country": "Thailand",
+      "region": "Burgundy",
+      "size": "1.8L"
+    }
+  }
+]
